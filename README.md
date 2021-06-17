@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bit-flipper
 - 👀 I’m interested in pentest
-- 🌱 I’m currently learning c,c++(pointer)
+- 🌱 I’m currently learning c,c++(pointer),a little python3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
